@@ -60,4 +60,13 @@ keyboard inputs and why proper security measures are essential.
 ---
 
 ## 📂 Project Structure
+keystroke-logging-demonstration/
+│
+├── keylogger.py
+├── README.md
+├── requirements.txt
+├── .gitignore
+└── screenshots/
+├── gui.png
+└── logs.png
 
